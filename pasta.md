@@ -7,3 +7,5 @@
 * Garlic
 
 ## Steps
+1. Boil water
+2. Salt
